@@ -60,3 +60,7 @@ aa3ed92159be6712badd4d61c089089ba27594456e108c8642e9535e77786562
 # ffs-30b5c2cb6e56 
 f12fd2fbdc8a97981074d862e0dc928c1968801ce0db9ccc596822ad252133bb
 
+## Bilder
+
+![Ein einzelner Freifunk Router mit Aufkleber](https://cdn.pbrd.co/images/1GrwvfGh.jpg)
+![Ein Freifunk Router Stapel](https://cdn.pbrd.co/images/1GrqAbUU.jpg)
