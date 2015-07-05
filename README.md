@@ -6,6 +6,12 @@
 ## Router
 
 - [x] WR841ND
+# ffs-router 
+328201390b66b84a3e074692028cb30c2a6031fb44a171bcc2f05a1a97e8cdda
+- [x] WR841ND
+# ffs-router 
+c5b4dd5d4db6582eff80efc03844f74c1988963a5de3325a444881b832b77da7
+- [x] WR841ND
 # ffs-pkynk8daw4kc
 c3fed563d3a9e4eed0cdf784049c31a7e1ee7c9fcd1b5196f7a23dbe567640b7
 - [x] WR841ND
