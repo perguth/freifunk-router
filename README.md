@@ -6,7 +6,7 @@
 # Router
 
 ## 17
-> WR841ND v11
+> WR841N v11
 ```
 Name: ffs-afrikanischer-tulpenbaum 
 Key: c970beb2becca25745b1c9dc693bb37f715591a5a8fe90ea1aa5548cf537c17f 
