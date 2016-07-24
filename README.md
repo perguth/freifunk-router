@@ -3,7 +3,73 @@
 - Die Liste aller in Stuttgart registrierten Router: [freifunk-stuttgart/peers-ffs](https://github.com/freifunk-stuttgart/peers-ffs).
 - Freifunk Factory Firmware (Original -> Freifunk): [gw01.freifunk-stuttgart.de/gluon/stable/factory/](http://gw01.freifunk-stuttgart.de/gluon/stable/factory/)
 
-## Router
+# Router
+
+## 17
+> WR841ND v11
+```
+Name: ffs-afrikanischer-tulpenbaum 
+Key: c970beb2becca25745b1c9dc693bb37f715591a5a8fe90ea1aa5548cf537c17f 
+MAC: ec:08:6b:b5:35:08
+```
+
+## 16
+> WR841ND v10
+```
+Name: ffs-afrikanischer-butterbaum 
+Key: 16d130bae49024b36683549146b6e6e60c4eacbf7fdf77c7b7d90860907a3500 
+MAC: 18:a6:f7:27:63:52
+```
+
+## 15
+> WR841ND v10
+```
+Name: ffs-abendlaendischer-lebensbaum 
+Key: 1e9424aa089842ff2bf465ae10d969b5dc54c11eeee15d5489d5964b5f246876 
+MAC: 18:a6:f7:27:77:cc
+```
+
+## 14
+> WR841ND v11
+```
+Name: ffs-pjmuboigp4cn 
+Key: 11e73e7882c2c5d3962859cfec85f52cc18521585be45ec117c022bf2a4cfe8f 
+MAC: ec:08:6b:61:61:dc
+```
+
+## 13
+> WR841ND v11
+```
+Name: ffs-djwu49dbchdi 
+Key: 703081ad5b08a5e90a2dc1611b283f811a15b9633015fc6181096fb4de4f097d 
+MAC: ec:08:6b:61:61:9a
+```
+
+## 12
+> WR841ND v9
+```
+Name: ffs-afrikanischer-mahagonibaum 
+Key: 627e5415d0b02f3723c9a55da91d88b978655085b054ad289c24c06121999bbe 
+MAC: e8:de:27:f9:20:52
+```
+
+## 11
+> WR841N v10
+```
+Name: ffs-5tibnh344z4y 
+Key: a896f54f4693a648d5895a06b2ded7c3e90754ba8eaa1a770d181d74d17da5b6 
+MAC: 60:e3:27:e7:51:ca
+```
+
+## 10
+> WR841N v10
+```
+Name: ffs-kp38n3hysagt 
+Key: 253406a6dcf8b20cf2f8e91878aa84d8aa614a491f29e94876b466d9243502cd 
+MAC: 60:e3:27:e7:69:cc`
+```
+
+## Legacy list
 
 - [x] WR841ND
 # ffs-router 
@@ -65,12 +131,9 @@ aa3ed92159be6712badd4d61c089089ba27594456e108c8642e9535e77786562
 - [x] WR841N
 # ffs-30b5c2cb6e56 
 f12fd2fbdc8a97981074d862e0dc928c1968801ce0db9ccc596822ad252133bb
-- [x] WR841ND
-# ffs-abendlaendischer-lebensbaum
-1e9424aa089842ff2bf465ae10d969b5dc54c11eeee15d5489d5964b5f246876
 
 
-## Bilder
+# Bilder
 
 ![Ein einzelner Freifunk Router mit Aufkleber](https://cdn.pbrd.co/images/1GrwvfGh.jpg)
 ![Ein Freifunk Router Stapel](https://cdn.pbrd.co/images/1GrqAbUU.jpg)
