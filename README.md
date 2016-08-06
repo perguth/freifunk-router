@@ -5,6 +5,14 @@
 
 # Router
 
+## 18
+> WR841N v11
+```
+Name: ffs-afzelia
+Key: 06f43059be025e23afa32a060f8b1efa006369ce388a9e5619886286a47feeb2
+MAC: 18:a6:f7:7a:2a:2e
+```
+
 ## 17
 > WR841N v11
 ```
