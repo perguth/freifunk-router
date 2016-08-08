@@ -5,6 +5,14 @@
 
 # Router
 
+## 19
+> WR841ND v11
+```
+Name: ffs-ahornblaettriger-flaschenbaum 
+Key: 73a328518f122eb4006ac4d547d32abfb3affaa766bc5cc7446c973e54323a37 
+MAC: f4:f2:6d:dc:ee:68
+```
+
 ## 18
 > WR841N v11
 ```
