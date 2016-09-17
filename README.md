@@ -5,8 +5,16 @@
 
 # Router
 
+## 20
+> WR841ND v10
+```
+Name: ffs-aehrige-felsenbirne
+Key: 65917e57d31c485185597b23fb92f362e701315918d641edcbe626ea215a39b7
+MAC: ec:08:6b:f1:14:ea
+```
+
 ## 19
-> WR841ND v11
+> WR841ND v10
 ```
 Name: ffs-ahornblaettriger-flaschenbaum 
 Key: 73a328518f122eb4006ac4d547d32abfb3affaa766bc5cc7446c973e54323a37 
