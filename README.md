@@ -5,6 +5,30 @@
 
 # Router
 
+## 25
+> WR841N v11
+```
+Name: ffs-alpen-goldregen 
+Key: 009ae83346b6a3506d58e055651a6e38e691d1f280fad286b602444eaff07b27 
+MAC: a4:2b:b0:c8:d0:80
+```
+
+## 24
+> WR841N v11
+```
+Name: ffs-algerische-eiche 
+Key: 66d3cd47f7b97a6a98fce282de8b2f2418221e2561dc5b1d1ccd8e70f4d489f3 
+MAC: a4:2b:b0:c8:d0:ae
+```
+
+## 23
+> WR841N v11
+```
+Name: ffs-alexandrinischer-lorbeer 
+Key: 08345ad6cef9ee4e668b1e9958fd196e83d0ac93759c73dc577daf0071b50a82 
+MAC: a4:2b:b0:c8:d0:88
+```
+
 ## 22
 > WR841ND v10
 ```
