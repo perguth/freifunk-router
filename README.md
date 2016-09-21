@@ -5,6 +5,22 @@
 
 # Router
 
+## 22
+> WR841ND v10
+```
+Name: ffs-aleppo-kiefer 
+Key: 146e1edb54a8f1af0dbc3f677e83c6e91a9515571632dd625bb95e2176034d81 
+MAC: ec:08:6b:f7:d4:ae
+```
+
+## 21
+> WR841ND v10
+```
+Name: ffs-aehrige-scheinhasel 
+Key: 0c0539e74cb18b49bb627174ca89c12057039f08d93190be3370d9f130114b57 
+MAC: ec:08:6b:f7:df:f0
+```
+
 ## 20
 > WR841ND v10
 ```
