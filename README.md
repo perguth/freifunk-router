@@ -1,8 +1,9 @@
 # Freifunk Router (Stuttgart)
 
-- Die Liste aller in Stuttgart registrierten Router: [freifunk-stuttgart/peers-ffs](https://github.com/freifunk-stuttgart/peers-ffs)
-- Gateway-Monitoring-Webseite: [Monit Service Manager](http://gw01.freifunk-stuttgart.de/monit.html)
-- Freifunk Factory Firmware (Original -> Freifunk): [gw01.freifunk-stuttgart.de/gluon/stable/factory/](http://gw01.freifunk-stuttgart.de/gluon/stable/factory/)
+- Das [Repo der in Stuttgart registrierten Router mit Pub-Key](https://github.com/freifunk-stuttgart/peers-ffs)
+- [Liste aller Router mit online-status](http://gw01.freifunk-stuttgart.de/nodes.html)
+- [Gateway-Monitoring-Webseite](http://gw01.freifunk-stuttgart.de/monit.html)
+- [Freifunk Factory Firmware (Original -> Freifunk)](http://gw01.freifunk-stuttgart.de/gluon/stable/factory/)
 
 # Router
 
