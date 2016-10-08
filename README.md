@@ -6,6 +6,14 @@
 
 # Router
 
+## 26
+> WR841ND v11
+```
+Name: ffs-amerikanische-buche
+Key: 74da28e1d1451950525df994965ed8d93ae7cec17c88196c941e7e54ef413306 
+MAC: 60:e3:27:be:4c:82
+```
+
 ## 25
 > WR841N v11
 ```
