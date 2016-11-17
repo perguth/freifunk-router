@@ -3,7 +3,7 @@
 - Das [Repo der in Stuttgart registrierten Router mit Pub-Key](https://github.com/freifunk-stuttgart/peers-ffs)
 - [Liste aller Router mit Online-Status](http://gw01.freifunk-stuttgart.de/nodes.html)
 - [Gateway-Monitoring-Webseite](http://gw01.freifunk-stuttgart.de/monit.html)
-- [Freifunk Factory Firmware (Original -> Freifunk)](http://gw01.freifunk-stuttgart.de/gluon/stable/factory/)
+- [Firmware download](https://wiki.freifunk-stuttgart.net/download:start)
 
 # Router
 
