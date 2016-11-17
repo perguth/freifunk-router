@@ -7,6 +7,14 @@
 
 # Router
 
+## 27
+> WR841ND v10 `OpenNIC`
+```
+Name: ffs-flaum-eiche 
+Key: b75b42d4e47337b5eded2595f09acab7d03af0a5d719abc518becb4a61bf72c1 
+MAC: c4:e9:84:36:6f:ce
+```
+
 ## 26
 > WR841ND v11
 ```
