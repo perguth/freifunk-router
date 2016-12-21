@@ -17,8 +17,8 @@ MAC: c4:e9:84:36:6f:ce
 ## 26
 > WR841ND v11
 ```
-Name: ffs-amerikanische-buche
-Key: 74da28e1d1451950525df994965ed8d93ae7cec17c88196c941e7e54ef413306 
+Name: ffs-haenge-buche 
+Key: 760883c88d07fbac94a9a51183f1488857100abe3703749140d8c13ad9af26e5 
 MAC: 60:e3:27:be:4c:82
 ```
 
