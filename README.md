@@ -7,7 +7,7 @@
 # Router
 
 ## 27
-> WR841ND v10 `OpenNIC`
+> WR841ND v10 +`mesh on WAN`
 ```
 Name: ffs-flaum-eiche 
 Key: b75b42d4e47337b5eded2595f09acab7d03af0a5d719abc518becb4a61bf72c1 
@@ -47,7 +47,7 @@ MAC: a4:2b:b0:c8:d0:88
 ```
 
 ## 22
-> WR841ND v10
+> WR841ND v10 +`mesh on lan`
 ```
 Name: ffs-aleppo-kiefer 
 Key: 146e1edb54a8f1af0dbc3f677e83c6e91a9515571632dd625bb95e2176034d81 
@@ -95,7 +95,7 @@ MAC: ec:08:6b:b5:35:08
 ```
 
 ## 16
-> WR841ND v10
+> WR841ND v10 +`mesh on lan`
 ```
 Name: ffs-afrikanischer-butterbaum 
 Key: 16d130bae49024b36683549146b6e6e60c4eacbf7fdf77c7b7d90860907a3500 
