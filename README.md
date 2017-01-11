@@ -46,15 +46,15 @@ Key: 08345ad6cef9ee4e668b1e9958fd196e83d0ac93759c73dc577daf0071b50a82
 MAC: a4:2b:b0:c8:d0:88
 ```
 
-## 22
-> WR841ND v10 +`mesh on lan`
+## 22 `mesh-on-wan` `mesh-on-lan`
+> WR841ND v10
 ```
 Name: ffs-aleppo-kiefer 
 Key: 146e1edb54a8f1af0dbc3f677e83c6e91a9515571632dd625bb95e2176034d81 
 MAC: ec:08:6b:f7:d4:ae
 ```
 
-## 21
+## 21 `mesh-on-wan` `mesh-on-lan`
 > WR841ND v10
 ```
 Name: ffs-aehrige-scheinhasel 
